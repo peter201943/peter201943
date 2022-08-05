@@ -9,14 +9,14 @@
 - 👨 Man (He/Him)
 
 ### I can help you with:
-- Programming (Python, R, C#, Java, SQL, C)
-- Data Science (Pandas, Numpy, Matplotlib, SciPy)
-- Unity (Networking (Photon), Controllers, AI, Physics)
-- Linux (Git, Bash, SSH/Remote, Docker)
-- OSS (GitHub, GitLab, Jira, Agile, Slack, Discord)
-- Web Dev (Javascript, NodeJS, HTML, CSS)
-- Editors (Visual Studio, VS Code, IntelliJ, RStudio, Emacs)
-- Office (LaTeX, Word, PowerPoint, OneNote, Obsidian/Notion)
+- **Programming:** Python, R, C#, Java, SQL, C
+- **Data Science:** Pandas, NumPy, MatPlotLib, SciPy
+- **Unity:** Networking (Photon), Controllers, AI, Physics
+- **Linux:** Git, Bash, SSH/Remote, Docker
+- **Open Source:** GitHub, GitLab, Jira, Agile, Slack, Discord
+- **Web Development:** JavaScript, NodeJS, HTML, CSS
+- **Editors:** Visual Studio, VS Code, IntelliJ, RStudio, Emacs
+- **Office:** LaTeX, Word, PowerPoint, OneNote, Obsidian/Notion
 
 ### Some of my previous projects include:  
 - [A turn-based combat game with different timelines and unique character abilities](https://cosmic-engine.gitlab.io/)
