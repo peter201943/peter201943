@@ -41,5 +41,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Peter%20Mangelsdorf)](https://linkedin.com/in/peter-mangelsdorf)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&label=peter201943)](https://gitlab.com/peter201943)
 
-
-
+*References and additional works are available upon request. If you have a hobby project, try reaching out to me on Discord.*
