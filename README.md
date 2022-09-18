@@ -4,7 +4,6 @@
 ### I am a:
 - 🧑‍💻 Computer Scientist
 - 🐉 Drexel Alumni
-- 🇺🇸 American Citizen
 - 🎮 Game Developer
 - 👨 Man (He/Him)
 
